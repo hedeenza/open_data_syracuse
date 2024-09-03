@@ -1,0 +1,130 @@
+Dataset Title,Category,Internal City Data or External Data,Next Update,Update Frequency,Data Source,Automated Updates?,Has Metadata (FGDC - CSDGM Format)
+3rd Grade ELA Proficienty Levels by Census Block (SCSD 2021),Education,External,NA,NA,Syracuse City School District,No,Yes
+Building Energy Benchmarking Report 2017,Utilities,External,One time assessment,One time assessment,USEPA Portfolio Manager,No,No
+Building Permits (2013 - 2019),Permits,Internal,Monthly,Monthly,Central Permit Dept.,No,Yes
+Capital Project and Grant Funds,Budget,Internal,TBD,Annually,Budget Office,No,Yes
+Census Block Groups in Syracuse, NY (2010),Map,External,2022,Every 10 Years,Census Dept.,No,No
+Census Tracts in Syracuse, NY (2020),Map,External,Every 10 years,Every 10 years,Census Bureau,No,No
+City of Syracuse Wards,Map,Internal,NA (Historic Dataset),When Updated,,No,No
+City Streets 2011,Map,External,When updated,When Updated,SOCPA,No,Yes
+Cityline Calls for Service,Gov Services,Internal,NA (Now using SeeClickFix),NA (Now using SeeClickFix),DPW,No,No
+Code Violations,Housing,Internal,Daily,Daily,Code Enforcement,Yes,Yes
+Crime Data 2017 (Part 1 Offenses),Crime,Internal,NA (Historic Dataset),NA (Historic Dataset),Syracuse Police Department,NA,Yes
+Crime Data 2019 (Part 1 Offenses),Crime,Internal,NA (Historic Dataset),NA (Historic Dataset),SPD,NA,Yes
+Crime Data 2019 (Part 2 Offenses),Crime,Internal,NA (Historic Dataset),NA (Historic Dataset),SPD,NA,Yes
+Crime Data 2020 (Part 1 Offenses),Crime,Internal,NA (Historic Dataset),NA (Historic Dataset),SPD,NA,Yes
+Crime Data 2020 (Part 2 Offenses),Crime,Internal,NA (Historic Dataset),NA (Historic Dataset),SPD,NA,Yes
+Crime Data 2020 (Part 2 Offenses),Crime,Internal,NA (Historic Dataset),NA (Historic Dataset),SPD,NA,Yes
+Crime Data 2021 (Part 1 Offenses),Crime,Internal,NA (Historic Dataset),NA (Historic Dataset),SPD,NA,Yes
+Crime Data 2021 (Part 2 Offenses),Crime,Internal,NA (Historic Dataset),NA (Historic Dataset),SPD,NA,Yes
+Crime Data 2022 - Part 1 Offenses (With Lat & Long Info),Crime,Internal,Weekly,Weekly,SPD,NA,Partially
+Crime Data 2022 (Part 1 Offenses),Crime,Internal,Weekly,Weekly,SPD,NA,Yes
+Crime Data 2022 (Part 2 Offenses),Crime,Internal,Weekly,Weekly,SPD,NA,Yes
+Downtown Syracuse - 3D Model (Downloadable),3D Model,External,NA (One Time),NA (One Time),ArcGIS City Engine,NA,Yes
+Emergency Snow Routes,Snow,Internal,When Updated,When Updated,DPW,No,No
+Fire Incidents,Fire,Internal,TBD,TBD,Fire Department,No,No
+Fiscal Year 18 Adopted Budget,Budget,Internal,Nov. 2022,Annually,Finance,No,No
+FY17 Actual Expenses,Budget,Internal,Nov 2022,Annually,Budget Office,No,Yes
+FY17 Actual Revenues,Budget,Internal,June 2023,Annually,Budget Office,No,No
+FY17 Spending,Budget,Internal,Jan 2023,Annually,Budget Office,No,No
+FY18 Budgeted Expenses,Budget,Internal,May 2022,Annually,Budget Office,No,Yes
+FY18 Budgeted Revenues,Budget,Internal,June 2023,Annually,Budget Office,No,No
+FY19 Proposed Budget Expenditures,Budget,Internal,April 2022,Annually,Budget Office,No,No
+FY19 Proposed Budget Revenue,Budget,Internal,May 2022,Annually,Budget Office,No,Yes
+Greater Syracuse Bike Suitability Ratings (2020),Map,External,When updated,When Updated,SMTC,No,Yes
+July 2018 Parcels,Map,Internal,TBD,When Updated,NBD,No,Yes
+Kindergarten Readiness by Census Block (SCSD 2021),Education,External,NA,NA,Syracuse City School District,No,Yes
+National Registry of Historic Sites and Districts - Syracuse,Map,External,TBD,When Updated,New York State Historic Preservation Office (NYSHPO),No,Yes
+Parcel Data (April 2018 - Shapefile),Map,Internal,2022,Annually,NBD,No,No
+Parcel Data (April 2018),Map,Internal,TBD,Annually,NBD,No,No
+Parcel Data August 2017,Map,Internal,TBD,Annually,NBD,No,No
+Parcel Map (October 2019),Map,Internal,When updated,When Updated,NBD,No,Yes
+Parcel Map (Q1 2020),Map,Internal,TBD,Every couple years,NBD,No,No
+Pavement Ratings (2020),Pavement,External,Approx. 2025,Every few years,Syracuse Metropolitan Transportation Council (SMTC),No,No
+Pavement Ratings (2021),Pavement,External,NA (Historic Dataset),NA (Historic Dataset),DPW,NA,Yes
+Permit Requests,Permits,Internal,Daily,Daily,Permit Department,Yes,Yes
+Potholes filled 2018,Potholes,Internal,Anually,Anually,DPW,No,No
+Assessment Final Roll (2019),Housing,Internal,Anually,Anually,Dept. of Assessment,No,No
+Property Assessments (2020 Tentative Roll),Housing,Internal,Anually,Anually,Dept. of Assessment,No,No
+Proposed Budget Expenditures (Fiscal Year 2022-2023),Budget,Internal,Annually,Annually,Department of Budget,No,Yes
+Proposed Budget Revenue (Fiscal Year 2022-2023),Budget,Internal,Annually,Annually,Department of Budget,No,Yes
+Public Decision and Order,Ticket,Internal,TBD,TBD,,No,No
+Road Ratings 2015,Pavement,External,TBD,Every few years,Syracuse Metropolitan Transportation Council (SMTC),No,No
+Road Ratings 2017,Pavement,External,Periodic update,Every few years,Syracuse Metropolitan Transportation Council (SMTC),No,No
+SeeClickFix Requests,Gov Services,Internal,Weekly,Weekly,DPW,Yes,Yes
+Sidewalk Inventory (2015),Map,External,When updated,When Updated,Syracuse Metropolitan Transportation Council (SMTC),No,Yes
+Skaneateles Lake Water Testing,Water,Internal,TBD,TBD,Water Dept.,No,No
+SPD Personnel Complaints (2021 - Present),Personnel,Internal,Quarterly,Quarterly,SPD Internal Affairs Department.,Yes,Yes
+Syracuse Census Tracts (2020),Map,External,Every 10 years,Every 10 years,Census Bureau,No,Yes
+Syracuse City Boundary,Map,External,NA (Historic Dataset) NA (Historic Dataset),When Updated,Census Bureau,No,No
+Syracuse Neighborhoods,Map,Internal,When Updated,When Updated,NBD,No,No
+Syracuse Common Council Districts,Map,Internal,When Updated,When Updated,,No,No
+Syracuse Quadrants,Map,Internal,When Updated,When Updated,DPW,No,No
+Syracuse Rental Registry,Housing,Internal,Daily,Daily,Code Enforcement,Yes,Yes
+Syracuse TNT Areas,Map,Internal,When Updated,When Updated,Syracuse Community Geography,No,No
+Syracuse Zip Codes - 2022,Map,External,TBD,TBD,Data.Gov,No,Yes
+Trash Pickup Day Schedule,Gov Services,Internal,When updated,When Updated,DPW,No,Yes
+Unfit Properties,Housing,Internal,July 2022,Daily,Code Enforcement,Yes,Yes
+Urban Tree Canopy Syracuse 2010 (All Layers),Nature,External,NA (Historic Dataset),NA (Historic Dataset),USFS, the University of Vermont, and SUNY ESF,NA,Yes
+Water Main Breaks (2004-2019),Water,Internal,NA (Historic Dataset),NA (Historic Dataset),Water Dept.,NA,No
+Water Main Breaks (2021),Water,Internal,Annually (January),Annually,Dept. of Water,No,Yes
+Water Services,Water,Internal,Unknown,Unknown,Dept. of Water,No,No
+Weekly Part 1 Crime Offenses 2018,Crime,Internal,NA (Historic Dataset),NA (Historic Dataset),Syracuse Police Dept.,NA,Yes
+Weekly Part 2 Crime Offenses 2017,Crime,Internal,NA (Historic Dataset),NA (Historic Dataset),SPD,NA,Yes
+Weekly Part 2 Crime Offenses 2018,Crime,Internal,NA (Historic Dataset),NA (Historic Dataset),SPD,NA,Yes
+Syracuse Common Council Boundaries (Final Proposed Plan),Map,Internal,2032,Every 10 Years,Syracuse Redistricting Commission,No,Yes
+Syracuse Public Art,Art,Internal,Monthly,Monthly,Syracuse Public Arts Commission (SPAC),Yes,Yes
+Assessment Tentative Roll (2023),Housing,Internal,May 2023,Twice a year (Tentative in January, Final in May),Department of Assessment,No,Yes
+Crime Data 2023 (Part 1 Offenses with Latitude & Longitude),Crime,Internal,NA (Historic Dataset),NA (Historic Dataset),Syracuse Police Dept.,No,Yes
+Crime Data 2023 (Part 2 Offenses with Lati & Long),Crime,Internal,NA (Historic Dataset),NA (Historic Dataset),Syracuse Police Dept.,No,Yes
+Parking Violations (2007 - 2022),Ticket,Internal,NA (Historic Dataset),NA (Historic Dataset),Parking VIolations Bureau (PVB),NA (Historic Dataset),Yes
+Parking Vilations (2023 - Present),Parking,Internal,Daily,Daily,Parking VIolations Bureau (PVB),Yes,Yes
+Syracuse Fire Hydrants,Water,Internal,Approx. Monthly,Approx. Monthly,Dept. of Water,No,Yes
+Syracuse Historical Properties,Housing,Internal,Daily,Daily,Landmark Preservation Board,Yes,Yes
+Syracuse Bike Infrastructure (2023),Transportation,External,When Infratructure is assessed by SMTC,Periodically,Syracuse Metropolitan Transportation Council (SMTC),No,Yes
+Assessment Final Roll (2018),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+Assessment Final Roll (2017),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+Assessment Final Roll (2016),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+Assessment Final Roll (2015),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+Assessment Final Roll (2014),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+Assessment Final Roll (2013),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+Assessment Final Roll (2012),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+Assessment Final Roll (2011),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+Assessment Final Roll (2010),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+Assessment Final Roll (2009),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+Assessment Final Roll (2008),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+Assessment Final Roll (2007),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+Syracuse Tree Inventory,Nature,Internal,Annually,Annually,Department of Parks & Recreation,No,Yes
+Approved Budget Revenue (Fiscal Year 2023-2024),Budget,Internal,Annually,Annually,Department of Management and Budget,No,Yes
+Sensor Road Temperatures,Sensor Data,Internal,Monthly,Monthly,Strategic Initiatives,No,Yes
+Syracuse Pool Info,Parks & Rec,Internal,Annually,Annually,Department of Parks & Recreation,No,Yes
+Syracuse's Athletic Fields,Parks & Rec,Internal,Monthly,Monthly,Department of Parks & Recreation,Yes,Yes
+Syracuse Athletic Courts,Parks & Rec,Internal,Monthly,Monthly,Department of Parks & Recreation,Yes,Yes
+Syracuse Community Centers,Parks & Rec,Internal,Annually,Annually,Department of Parks & Recreation,No,Yes
+Syracuse Air Temperatures,Sensor Data,Internal,Monthly,Monthly,Strategic Initiatives,No,Yes
+Syracuse Pavement Ratings (2022),Transportation,External,Annually,Annually,Syracuse Metropolitan Transportation Council (SMTC),No,Yes
+Kindergarten Readiness by Census Block (SCSD 2022),Education,External,Annually,Annually,Syracuse City School District (SCSD),No,Yes
+3rd Grade ELA Proficiency Levels by Census Block (SCSD 2022),Education,External,Annually,Annually,Syracuse City School District (SCSD),No,Yes
+3rd Grade ELA Proficiency Levels by Census Block (SCSD 2023),Education,External,Annually,Annually,Syracuse City School District (SCSD),No,Yes
+Assessment Final Roll (2020),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+Assessment Final Roll (2021),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+Assessment Final Roll (2022),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+Kindergarten Readiness by Census Block (SCSD 2023),Education,External,Annually,Annually,Syracuse City School District (SCSD),No,Yes
+Kindergarten Readiness by Census Block (SCSD 2018),Education,External,Annually,Annually,Syracuse City School District (SCSD),No,Yes
+Assessment Tentative Roll (2024),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+Assessment Final Roll (2024),Housing,Internal,Annually,Annually,Department of Assessment,No,Yes
+MWBE Certified Businesses,Business,Internal,Monthly,Monthly,Division of Equity Compliance and Social Impact (DECSI),No,No
+Syracuse Bike Infrastructure,Transportation,External,When Infratructure is assessed by SMTC,Annually,Syracuse Metropolitan Transportation Council (SMTC),No,Yes
+Crime Data 2024 (Part 1 Offenses with Latitude & Longitude),Crime,Internal,Weekly,Weekly,Syracuse Police Dept.,Yes,Yes
+Crime Data 2024 (Part 2 Offenses with Latitude & Longitude),Crime,Internal,Weekly,NA (Historic Dataset),Syracuse Police Dept.,Yes,Yes
+Parcel Map (Q4 2023),Map,Internal,TBD,Every couple years,NBD,No,Yes
+Parcel Map (Q1 2024),Map,Internal,TBD,Every couple years,NBD,No,Yes
+Kindergarten Readiness by Census Block (SCSD 2019),Education,External,Annually,Annually,Syracuse City School District (SCSD),No,Yes
+Water Main Breaks (2022),Water,Internal,Annually (January),Annually,Dept. of Water,No,Yes
+Syracuse Pavement Ratings (2023),Transportation,External,Annually,Annually,Syracuse Metropolitan Transportation Council (SMTC),No,Yes
+Vacant Properties,Housing,Internal,Daily,Daily,NBD,Yes,Yes
+Proposed Budget Expenditures (Fiscal Year 2024-2025),Budget,Internal,Annually,Annually,Department of Management and Budget,No,Yes
+Proposed Budget Revenue (Fiscal Year 2024-2025),Budget,Internal,Annually,Annually,Department of Management and Budget,No,Yes
+Syracuse Athletic Fields,Parks & Rec,Internal,Monthly,Monthly,Department of Parks & Recreation,Yes,Yes
+Parcel Map (Q3 2024),Map,Internal,TBD,Quarterly,NBD,No,Yes
+Number of Total Datasets (not including webmaps),128,,,,Total Auto-Update,15,
